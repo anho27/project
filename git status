@@ -1,0 +1,29 @@
+[33mcommit 7028b6d2d502b5bb64ad095daf981596090e82da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: andy <anho.t4@gmail.com>
+Date:   Wed Feb 15 06:07:03 2023 -0500
+
+    deleted line3 in file1.txt and created file3.txt with one line
+
+[33mcommit 8c6538a08e6160328978f7be18694801eb3f747e[m
+Author: andy <anho.t4@gmail.com>
+Date:   Wed Feb 15 06:02:25 2023 -0500
+
+    reverted to commit 1f7621674fa21491193f54d42c218c507cd18e51
+
+[33mcommit 0a1f49ec444d8cc679991a996e3e218ff68f4538[m
+Author: andy <anho.t4@gmail.com>
+Date:   Wed Feb 15 05:27:01 2023 -0500
+
+    created file2.txt and changed line3 in file1.tx
+
+[33mcommit 1f7621674fa21491193f54d42c218c507cd18e51[m
+Author: andy <anho.t4@gmail.com>
+Date:   Tue Feb 14 01:47:47 2023 -0500
+
+    added 3 lines to file1.txt
+
+[33mcommit 9701f0cb118d349248df1c48e303dc896d671733[m
+Author: andy <anho.t4@gmail.com>
+Date:   Tue Feb 14 00:54:47 2023 -0500
+
+    created file1.txt
